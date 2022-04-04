@@ -43,6 +43,10 @@ public class App {
             System.out.println("====================================");
             System.out.println("Print da colaboradora Larissa Sagaz");
             System.out.println("====================================");
+            System.out.println("\n");
+            System.out.println("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~");
+            System.out.println("Print do colaborador José Dotta");
+            System.out.println("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~");
         }
     }
 }
