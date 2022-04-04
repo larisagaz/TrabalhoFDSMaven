@@ -40,6 +40,9 @@ public class App {
                 System.out.println("Categoria : " + categoria);
                 System.out.println("---------------\n\n");
             }
+            System.out.println("====================================");
+            System.out.println("Print da colaboradora Larissa Sagaz");
+            System.out.println("====================================");
         }
     }
 }
